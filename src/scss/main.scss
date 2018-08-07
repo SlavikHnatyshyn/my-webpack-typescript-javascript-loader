@@ -1,0 +1,23 @@
+@import "./scss-module/_body-style.scss";
+
+
+
+
+
+
+
+#test-form { 
+  width: 500px;
+}
+p{
+  display: flex;
+}
+label {
+  width: 40%;
+}
+input {
+  width: 60%;
+}
+.my-input--red {
+  background: red;
+}
